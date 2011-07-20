@@ -1,0 +1,4 @@
+This project contains the initial attempt at creating a self-organizing map in scala.
+
+The first efforts will focus mainly on an implementation based on the normal (Kohonen) SOM implemented using the basic algorithms for determining distance and weight upgrade, going on to provide more advanced algorithms and optimisation.
+The ultimate goal is to produce an optimisation for a GSOM that is scalable and more adaptive to various stimuli.
